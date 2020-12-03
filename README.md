@@ -1,5 +1,5 @@
 # navy
-{EPITECH} | First year | Unix System programming project
+# {EPITECH} | First year | Unix System programming project
 
 You all know the very famous Battleship game. Well, I hope so.
 
@@ -16,20 +16,20 @@ See the subject for further details !
 
 ========================
 
-2nd semester Unix System programming unit
+## 2nd semester Unix System programming unit
 
 Grade : C | Mark : 15.5
 
-Score : 88.1%
+| Category        | Percentage | Tests     | Crash ? |
+|-----------------|------------|-----------|---------|
+| Basic signal    | 100%       | 2/2       | x       |
+| Game            | 75%        | 6/8       | x       |
+| Protocol        | 75%        | 3/4       | x       |
+| Protocol - eval | 75%        | 3/4       | x       |
+| Rigor           | 100%       | 8/8       | x       |
+| Rigor - eval    | 100%       | 8/8       | x       |
+| **End score**   | **88.1%**  | **30/34** | **No**  |
 
-   - Basic signal : 100% --- 2/2
-   - Game : 75% --- 6/8
-   - Game - eval : 87.5% --- 7/8
-   - Protocol : 75% --- 3/4
-   - Protocol - eval : 75% --- 3/4
-   - Rigor : 100% --- 8/8
-   - Rigor - eval : 100% --- 8/8
-
-Made with Quentin TREHEUX (LuciferBahamut)
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
 Beware of -42 Epitech students !!!
